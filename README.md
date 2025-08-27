@@ -26,3 +26,7 @@
 
 工具发布在 <https://linux.do>
 如有问题请查看logs目录下的日志文件。
+
+# Changlog:
+
+- 搭配 https://github.com/zhaochengcube/augment-token-mng 项目实现一键换号、更新余额监控token
