@@ -28,5 +28,6 @@
 如有问题请查看logs目录下的日志文件。
 
 # Changlog:
+- v1.1.0
+  - 搭配 https://github.com/zhaochengcube/augment-token-mng 项目实现一键换号、更新余额监控token
 
-- 搭配 https://github.com/zhaochengcube/augment-token-mng 项目实现一键换号、更新余额监控token
